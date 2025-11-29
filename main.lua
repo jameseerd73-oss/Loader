@@ -29,7 +29,7 @@ local LocalPlayer,MelatoninModule,MelatoninUI,MelatoninGameFrame = cloneref(game
 
 MelatoninModule.LoadingEffect(3, LocalPlayer, {
    {
-    GameName = "Roblox External",
+    GameName = "F1veR Roleplay",
     Image = "rbxassetid://127821495684337",
     SubTime = "Lifetime",
     Status = "Updated 29/11/2025",
@@ -37,14 +37,14 @@ MelatoninModule.LoadingEffect(3, LocalPlayer, {
   },
 
   {
-    GameName = "Apeldoorn Roleplay",
+    GameName = "Ap3ldoorn Roleplay",
     Image = "rbxassetid://127821495684337",
     SubTime = "Lifetime",
     Status = "Updated 29/11/2025",
     Url = "https://pandadevelopment.net/virtual/file/6639666a32a80908"
     },
       {
-    GameName = "Emergency Amsterdam",
+    GameName = "Em3rgency Amsterdam",
     Image = "rbxassetid://127821495684337",
     SubTime = "Lifetime",
     Status = "Updated 29/11/2025",

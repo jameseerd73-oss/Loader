@@ -47,7 +47,7 @@ MelatoninModule.LoadingEffect(3, LocalPlayer, {
     Image = "rbxassetid://127821495684337",
     SubTime = "Lifetime",
     Status = "Updated 29/11/2025",
-    Url = "https://pandadevelopment.net/virtual/file/1c3d033e8f8e93ff"
+    Url = "https://api.junkie-development.de/api/v1/luascripts/public/f1928e92351094008ecca1b2e0947d5a6bcc59c739eff7397148e745de61a47a/download"
   },
      {
     GameName = "Un1versal Menu",
